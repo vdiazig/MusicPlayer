@@ -1,4 +1,6 @@
-<center># Desarrollo de Aplicaciones Interactivas - PEC 4</center>
+<center>
+# Desarrollo de Aplicaciones Interactivas - PEC 4
+</center>
 ##Music Player
 
 Proyecto universitario de Grado Multimedia en la UOC que consiste en un reproductor de música creado con Unity 2023.1.8f1 para Android.
@@ -20,4 +22,4 @@ Por otro lado, existe un GameObject “ManagerMusic” que dispone del Audio Sou
 
 
 
-Descarga el pryecto completo [aquí](https://drive.google.com/file/d/1Fjg9JCCH_1iWeEg7gQip9VY33paTsjs2/view?usp=drive_link).
+Descarga el proyecto completo [aquí](https://drive.google.com/file/d/1Fjg9JCCH_1iWeEg7gQip9VY33paTsjs2/view?usp=drive_link).
