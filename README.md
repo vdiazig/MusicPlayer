@@ -4,7 +4,7 @@
 Proyecto universitario de Grado Multimedia en la UOC que consiste en un reproductor de música creado con Unity 2023.1.8f1 para Android.
 
 La aplicación consta de 3 pantallas: 
-![Capturas de pantalla](pantallas.png)
+![Capturas de pantalla](pantallas.jpg)
 
 En primer lugar, es necesario acceder a la librería para añadir canciones al reproductor y poder comenzar la experiencia.
 
